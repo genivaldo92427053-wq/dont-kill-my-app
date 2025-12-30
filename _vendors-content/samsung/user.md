@@ -1,4 +1,4 @@
----
+cd13e8f3155f83f60761adbacdf65cba8b4e95f4---
 manufacturer: samsung
 
 ---
